@@ -1,16 +1,84 @@
-### Hi there 👋
+### 😄自己紹介
+福岡でITエンジニアをやっています。
+フロントもサーバーサイドもやっています。
 
-<!--
-**soundring/soundring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 基本情報
+|  Key  |  Value  |
+| ---- | ---- |
+|  名前  |  ムラサメ  |
+|  GitHub  |  soundring  |
+|  Twitter  |  [@murasame_rize](https://twitter.com/murasame_rize)  |
 
-Here are some ideas to get you started:
+ ### ✨スキル
+|  プログラミング言語  |  年数  |  フレームワーク、ライブラリ  |  備考  |
+| ---- | ---- | ---- | ---- |
+|  Dart  |  1年以上  |  Flutter  |    |
+|  Ruby  | 1年以上  |  Rails  |    |
+|  JavaScript  | 2年以上  |    |  HTML、CSSも同じレベルの経験  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|   開発ツール  |  年数  |  備考  |
+| ---- | ---- | ---- |
+|  Visual Studio Code	  |  2年以上  |    |
+|  Android Studio	  |  1年以上  |    |
+|  Xcode  |  1年未満  |    |
+
+|   使用OS  |  備考  |
+| ---- | ---- |
+|  Windows(XP~10) |  私的利用  |
+|  Mac(Sierra~Big Sur)  |  開発、私的使用  |
+
+### その他ツール等
+- RedMine
+- Miro
+- Slack
+- Discord
+- Affinity Designer(iPad)
+- Affinity Photo(iPad)
+
+## 🔭仕事経歴
+### ■大学向けのシステム開発を自社で行っている会社（2019/11~現在）
+#### スマホアプリ開発
+#### [担当業務]
+アプリのアイコン制作
+アプリのフロントエンドを全て
+バックエンドの開発も少し
+
+アプリはリリース作業まで行いました。
+
+#### ［環境・構成］
+ＤＢ：MariaDB
+言語：Dart、Ruby
+フレームワーク：Flutter、Rails
+その他：Docker、AWS（EC2）
+
+#### ［メンバー構成／役割］ 
+3人/メンバー
+
+
+#### 社内文化への貢献
+1ヶ月に1回開催の社内勉強会を立ち上げ、現在も私が運営しています。(2020/2~)
+
+## 👀興味がある分野
+・UIデザイン
+・UXデザイン
+・グラフィックデザイン
+
+## 🏋️勉強中
+・AWSを中心としたクラウド技術
+
+## 💖趣味
+・読書(電子書籍派)
+・VRChat
+・アニメ鑑賞
+・リングフィットアドベンチャー
+・フィットボクシング
+
+## 🐰どんな人物か
+性格診断をすると、必ずと言っていいほど知的好奇心が強いとでます。
+
+### 【ストレングスファインダー上位5つ】
+・収集心
+・内省
+・個別化
+・学習欲
+・自我
