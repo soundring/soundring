@@ -16,20 +16,21 @@
  ### ✨スキル
 |  プログラミング言語  |  年数  |  フレームワーク、ライブラリ  |  備考  |
 | ---- | ---- | ---- | ---- |
-|  Dart  |  2年  |  Flutter  |    |
+|  Dart  |  2年半  |  Flutter  |    |
 |  Ruby  | 2年半  |  Rails  |    |
-|  JavaScript  | 2年  |    |  HTML、CSSも同じレベルの経験  |
+|  JavaScript  | 2年  |  Backbone.js、Marionette.js、jQuery  |  HTML、CSSも同じレベルの経験  |
 
 |   エディタ  |  年数  |  備考  |
 | ---- | ---- | ---- |
 |  Visual Studio Code	  |  2年  |    |
 |  RubyMine	  |  2年半  |    |
-|  Android Studio	  |  2年  |    |
-|  Xcode  |  2年  |    |
+|  Android Studio	  |  2年半  |    |
+|  Xcode  |  2年半  |    |
 
 |   DB  |  備考  |
 | ---- | ---- |
 |  MariaDB |  2年 |
+|  Cloud Firestore |  1年 |
 
 |   OS  |  備考  |
 | ---- | ---- |
@@ -40,9 +41,13 @@
 | ---- | ---- |
 |  Git |  3年 |
 |  GitHub |  3年 |
-|  Bitbucket |  2年半 |
+|  Bitbucket |  3年 |
 
 ### その他ツール等
+- Firebase Authentication
+- Firebase Cloud Messaging
+- Firebase Dynamic Links
+- Firebase Crashlytics
 - Fork
 - RedMine
 - Miro
@@ -69,7 +74,7 @@
 - ＤＢ：MariaDB
 - 言語：Dart、Ruby
 - フレームワーク：Flutter、Rails、React
-- その他：Docker、AWS（EC2）
+- その他：Docker、AWS（EC2）、Firebase Dynamic Links、Firebase Crashlytics、Firebase Cloud Messaging
 
 ##### ［メンバー構成／役割］ 
 2~3人/メンバー
@@ -87,21 +92,26 @@
 - その他：Docker、AWS（EC2）
 
 ##### ［メンバー構成／役割］ 
-6人/メンバー
+最大6人/メンバー
 
 #### 社内文化への貢献
 1ヶ月に1回開催の社内勉強会を立ち上げ、2年以上運営(2020/2~)
 
 ### ■副業(業務委託案件)
-#### 学習系アプリ開発（2022/1~現在）
+#### 英語学習系アプリ開発（2022/1~現在）
 ##### [担当業務]
-- アプリ開発に関すること全て(仕様パッケージ選定から実装、CI/CD環境構築)
+- アプリ開発に関することほとんど全て(仕様検討、実装、CI/CD環境構築)
+- デザインはデザイナーさんが担当
+
+音声認識やテキスト読み上げなど、OS依存の機能を使用することが求められました。
+speech_to_textやflutter_ttsといったパッケージを使用しFlutterだけで実装しました。
+詰まってもネットに情報がなさすぎて辛かったですが、使用したパッケージのissueにヒントが大体あったので助けられました。
 
 ##### ［環境・構成］
-- DB:Firebase firestore
+- DB:Firebase Firestore
 - 言語 Dart
 - フレームワーク: Flutter
-- その他:Bitrise、deploygate、Firebase Authentication
+- その他:Bitrise、deploygate、Firebase Authentication、Cloud Firestore
 
 ##### ［メンバー構成／役割］ 
 1人/開発担当
@@ -115,7 +125,7 @@
 
 ## 💖趣味
 - 読書(電子書籍派)
-- VR
+- オーディオブックで小説を聞く
 - リングフィットアドベンチャー
 - アニメ鑑賞
 
