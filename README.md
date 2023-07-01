@@ -14,20 +14,20 @@
 |  Dart  |  3年  |  Flutter  |    |
 |  Ruby  | 3年  |  Rails  |    |
 |  JavaScript  | 3年  |  jQueryなど |  |
-|  TypeScript  | 1年未満  |  React.js |  |
+|  TypeScript  | 1年  |  React.js |  |
 
 
 |   エディタ  |  年数  |  備考  |
 | ---- | ---- | ---- |
 |  Visual Studio Code	  |  3年  |    |
 |  RubyMine	  |  3年  |    |
-|  Android Studio	  |  3年  |    |
+|  Android Studio |  3年  |    |
 |  Xcode  |  3年  |    |
 
 |   DB  |  年数  |
 | ---- | ---- |
 |  MariaDB |  2年 |
-|  Cloud Firestore |  1年 |
+|  Cloud Firestore |  2年 |
 
 |   OS  |  備考  |
 | ---- | ---- |
@@ -50,11 +50,7 @@
 - Firebase Cloud Messaging
 - Firebase Dynamic Links
 - Firebase Crashlytics
-- Fork
 - RedMine
-- Miro
-- Slack
-- Discord
 - Affinity Designer(iPad)
 - Affinity Photo(iPad)
 
@@ -72,10 +68,10 @@
 バックエンドのAPI開発にも携わる。
 
 ##### ［環境・構成］
-- ＤＢ：MariaDB
+- DB：MariaDB
 - 言語：Dart、Ruby
 - フレームワーク：Flutter、Rails、React
-- その他：Docker、AWS（EC2）、Firebase Dynamic Links、Firebase Crashlytics、Firebase Cloud Messaging
+- その他：Docker、AWS、Firebase Dynamic Links、Firebase Crashlytics、Firebase Cloud Messaging
 
 ##### ［メンバー構成／役割］ 
 2~3人/メンバー
@@ -87,36 +83,40 @@
 - バグ修正 
 
 ##### ［環境・構成］
-- ＤＢ：MariaDB
+- DB：MariaDB
 - 言語：JavaScript、Ruby
 - フレームワーク：Bootstrap3、Backbone.js、Rails
-- その他：Docker、AWS（EC2）
+- その他：Docker、AWS
 
 ##### ［メンバー構成／役割］ 
 最大6人/メンバー
 
 #### 自社の既存のWeb/スマホアプリケーションのフロントエンド刷新(2022/11/1~)
 ##### [担当業務]
-Cordova案件
-Backbone.jsからReactへのリプレイス
+Backbone.jsからReactへのフロントエンドの刷新
 
 ##### ［メンバー構成／役割］ 
-最大5人/メンバー
+3~5人/メンバー
+
+##### ［環境・構成］
+- DB：PostgreSQL
+- 言語：TypeScript、Ruby
+- フレームワーク：Cordova、Backbone.js、React、Rails
+- その他：Docker、AWS
 
 #### 社内文化への貢献
 社内勉強会を立ち上げ、2年以上30回以上運営(2020/2~)
 
 ### ■業務委託案件
-#### 英語学習系新規アプリ開発（2022/1~現在）
+#### 英語学習系新規アプリ開発（2022/1~2023/6）リリース済み
 ##### [担当業務]
 - アプリ開発に関することほとんど全て(仕様検討、実装、CI/CD環境構築)
 - デザインはデザイナーさんが担当
+- 開発だけでなくクライアントさんに技術的なアドバイスなど行う技術顧問的な立ち位置もあります。
 
 音声認識やテキスト読み上げなど、OS依存の機能を使用。
 speech_to_textやflutter_ttsといったパッケージを使用しFlutterだけで実装。
 Flutter案件としては結構トリッキー。
-
-一通り動作するところまでは開発完了しクオリティアップを担当。
 
 ##### ［環境・構成］
 - DB:Firebase Firestore
@@ -126,7 +126,7 @@ Flutter案件としては結構トリッキー。
 
 ##### ［メンバー構成／役割］ 
 1人/開発担当
-2023年から 2人
+リリース直前あたりで 3人
 
 ## 👀興味がある分野
 - 起業
