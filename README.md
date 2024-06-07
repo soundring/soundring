@@ -47,7 +47,8 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 |  GitHub |  5年 |
 |  Bitbucket |  4年 |
 
-### その他触ったことあるツール等
+<details><summary>その他触ったことあるツール等</summary>
+
 - Amazon EC2
 - Amazon S3
 - Amazon CloudFront
@@ -60,11 +61,13 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 - RedMine
 - Affinity Designer(iPad)
 - Affinity Photo(iPad)
+</details>
 
 ## 🔭仕事経歴
 ### ■福岡のIT企業（2019/11~現在）
-#### 自社の新規スマホアプリ開発(2020/2~2021/9)
-##### [担当業務]
+<details><summary>自社の新規スマホアプリ開発(2020/2~2021/9)</summary>
+
+[担当業務]
 - Flutterの技術調査 
 - Firebaseの技術調査 
 - アプリのアイコン制作(Affinity Designerで制作)
@@ -88,9 +91,12 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 
 ##### ［メンバー構成／役割］ 
 2~3人/メンバー
+</details>
 
-#### 自社の既存のWebアプリケーション改修(2021/9~2022/6)
-##### [担当業務]
+
+<details><summary>自社の既存のWebアプリケーション改修(2021/9~2022/6)</summary>
+ 
+[担当業務]
 - 機能追加
 - 機能改善
 - バグ修正
@@ -108,8 +114,10 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 
 ##### ［メンバー構成／役割］ 
 最大6人/メンバー
+</details>
 
-#### 自社の既存のWeb/スマホアプリケーションのフロントエンド刷新(2022/11/1~2023/07/31)
+<details><summary>自社の既存のWeb/スマホアプリケーションのフロントエンド刷新(2022/11/1~2023/07/31)</summary>
+ 
 ##### [担当業務]
 - Backbone.jsからReactへのフロントエンドの刷新
 - Cordovaのアップデート作業(iOS/Android)
@@ -130,8 +138,10 @@ Cordovaには初めて触れたがFlutterで得たモバイル関係の知識も
 - 言語：TypeScript、Ruby
 - フレームワーク：Cordova、Backbone.js、React、Rails
 - その他：Docker、AWS
+</details>
 
-#### 自社の既存のWeb/スマホアプリケーションの機能追加、改修(2023/8/1~)
+<details><summary>自社の既存のWeb/スマホアプリケーションの機能追加、改修(2023/8/1~)</summary>
+
 ##### [担当業務]
 - 機能追加
 - 機能改善
@@ -161,12 +171,16 @@ Cordovaには初めて触れたがFlutterで得たモバイル関係の知識も
 - 言語：TypeScript、Ruby
 - フレームワーク：Cordova、React、Rails
 - その他：Docker、AWS(EC2/RDS/Amazon SNS/CloudWatch)
+</details>
+
+
 
 #### 社内文化への貢献
 社内勉強会を立ち上げ、4年以上46回以上運営(2020/2-現在)
 
 ### ■業務委託案件
-#### 英語学習系新規アプリ開発（2022/1~2023/7）リリース済み
+<details><summary>英語学習系新規アプリ開発（2022/1~2023/7）リリース済み</summary>
+
 ##### [担当業務]
 - アプリ開発全般(仕様打ち合わせ・検討、実装、CI/CD環境構築)
 - デザインはデザイナーさんが担当
@@ -189,11 +203,13 @@ Flutter案件としてはネイティブの機能を使うところが結構珍�
 ##### ［メンバー構成／役割］ 
 1人/開発担当
 リリース直前あたりで 3人
+</details>
 
-#### リリースされたアプリの改修および技術顧問的な立ち位置（2023/7~)
+<details><summary>リリースされたアプリの改修および技術顧問的な立ち位置（2023/7~)</summary>
+ 
 ##### [担当業務]
 基本的に非エンジニアのクライアントさんの技術的な相談にのる形で開発にガッツリ関わってない。
-
+</details>
 
 ## 👀このさきやってみたいこと
 - Webフロント/バックエンドの専門性を深める
@@ -203,7 +219,7 @@ Flutter案件としてはネイティブの機能を使うところが結構珍�
 - 自社IPを使った事業を行っている企業でのWebエンジニアとしての仕事
 - 自発的な成長をしたい人の支援(自己学習支援・クリエイター支援など)
 
-## 仕事において重視するもの
+## 仕事に選びにおいて重視するもの
 ## 1.ワークライフバランス
 - フルリモート
 - 残業が基本的にない(長引いても他の日にその分休んだりして調整可能であること)
