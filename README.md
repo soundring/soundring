@@ -15,14 +15,13 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 |  プログラミング言語  |  年数  |  フレームワーク、ライブラリ  |  備考  |
 | ---- | ---- | ---- | ---- |
 |  Dart  |  4年  |  Flutter  |    |
-|  Ruby  | 4年  |  Rails  |    |
-|  JavaScript  | 4年  |  jQueryなど |  |
-|  TypeScript  | 2年  |  React.js |  |
-
+|  Ruby  | 5年  |  Rails  |    |
+|  JavaScript  | 5年  |  jQuery |  |
+|  TypeScript  | 2年  |  React |  |
 
 |   エディタ  |  年数  |  備考  |
 | ---- | ---- | ---- |
-|  Visual Studio Code	  |  4年  |    |
+|  Visual Studio Code	  |  5年  |    |
 |  RubyMine	  |  3年  |    |
 |  Android Studio |  4年  |    |
 |  Xcode  |  4年  |    |
@@ -31,12 +30,12 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 | ---- | ---- |
 |  MariaDB |  Rails案件にて使用 |
 |  PostgreSQL |  Rails案件にて使用 |
-|  Cloud Firestore |  Flutter案件にて使用 |
+|  Cloud Firestore |  副業のFlutter案件にて使用 |
 
 |   OS  |  備考  |
 | ---- | ---- |
-|  Windows(XP~10) |  私的利用  |
-|  Mac(Sierra~Ventura)  |  開発、私的使用  |
+|  Windows(XP~最新) |  私的利用  |
+|  Mac(Sierra~最新)  |  開発、私的使用  |
 
 |   バージョン管理  |  年数  |
 | ---- | ---- |
@@ -46,15 +45,6 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 
 <details><summary>その他触ったことあるツール等</summary>
 
-- Amazon EC2
-- Amazon S3
-- Amazon CloudFront
-- Amazon Route 53
-- Amazon SNS
-- Firebase Authentication
-- Firebase Cloud Messaging
-- Firebase Dynamic Links
-- Firebase Crashlytics
 - RedMine
 - Affinity Designer(iPad)
 - Affinity Photo(iPad)
@@ -75,16 +65,16 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 - Flutterのアップデート(2.0⇨3.0)
 - 状態管理パッケージをproviderからriverpodへ移行
 
-社内にアプリエンジニアがおらず、まずFlutterをインプットした。 
+社内にアプリエンジニアがおらず、まずFlutterをインプットからスタート。 
 0からリリースまでアプリのフロントエンド開発を全て担当。
-バックエンドのAPI開発にも携わった。
-当時はFlutterの情報が少なく、問題解決のために英語情報を見に行ったりGitHubのissueを見に行ったりした。
+バックエンドのAPI開発も一部担当。
+当時はFlutterの日本語情報が少なく、問題解決のために英語情報を見に行ったりGitHubのissueを見に行ったりした。
 
 ##### ［環境・構成］
 - DB：MariaDB
 - 言語：Dart、Ruby
 - フレームワーク：Flutter、Rails、React
-- その他：Docker、AWS、Firebase Dynamic Links、Firebase Crashlytics、Firebase Cloud Messaging
+- その他：Docker、AWS(S3)、Firebase Dynamic Links、Firebase Crashlytics、Firebase Cloud Messaging
 
 ##### ［メンバー構成／役割］ 
 2~3人/メンバー
@@ -99,15 +89,14 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 - バグ修正
 - 総合テスト
 
-#### ここでの大きめの機能追加タスク
-既存のデータ構造などを参考にしつつマスタデータを次年度用に一括で複製する機能の開発
-複製はDelayedJobを使いジョブで実行
+#### 開発例
+データの一括で複製(DelayedJob)
 
 ##### ［環境・構成］
 - DB：MariaDB
 - 言語：JavaScript、Ruby
 - フレームワーク：Bootstrap3、Backbone.js、Rails
-- その他：Docker、AWS
+- その他：Docker、AWS EC2
 
 ##### ［メンバー構成／役割］ 
 最大6人/メンバー
@@ -121,7 +110,6 @@ https://scrapbox.io/murasame-works/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B
 - 総合テスト
 
 Cordovaのバージョンが古い影響でアプリのリリースができない状態になっていた。
-
 Cordovaには初めて触れたがFlutterで得たモバイル関係の知識も活用しつつアップデートを行なった。
 
 フロントエンドの環境の刷新も行なった。
@@ -134,7 +122,7 @@ Cordovaには初めて触れたがFlutterで得たモバイル関係の知識も
 - DB：PostgreSQL
 - 言語：TypeScript、Ruby
 - フレームワーク：Cordova、Backbone.js、React、Rails
-- その他：Docker、AWS
+- その他：Docker、AWS(EC2/S3/RDS/Amazon SNS/CloudWatch)
 </details>
 
 <details><summary>自社の既存のWeb/スマホアプリケーションの機能追加、改修(2023/8/1~)</summary>
@@ -145,21 +133,19 @@ Cordovaには初めて触れたがFlutterで得たモバイル関係の知識も
 - バグ修正
 - 総合テスト
 - リリース作業(サーバ/スマホアプリ)
-- プロジェクトリーダー
-  - 部会での進捗報告、週１のチーム内会議の進行、経営側との取り組むタスク等の打ち合わせ(2024/3~)
+- プロジェクトリーダー(2024/3~)
+  - 部会での進捗報告、週１のチーム内会議の進行、経営側との取り組むタスク等の打ち合わせ
   - 要件定義、設計
 
-#### ここでの大きめのタスク
-- 授業というグループ内のコンテンツに対しての動的な参照設定を可能にする機能追加
-- 授業内のコンテンツのCSVでの一括ダウンロード機能
+#### 開発したもの例
+- CSVでの一括ダウンロード機能
+- Excelファイルの取り込み機能(Roo使用)
 - 使いやすいようにテストデータ(seed)の改修
-- 授業への学生からの参加申請機能のリアルタイム通信部分追加(ActionCableでWebSocket使用)
-- rubocopのバージョンアップ & とりあえずTODOに入れられているcopに対応
+- 参加申請機能(ActionCableでWebSocket使用)
+- rubocopのバージョンアップ & TODOになってるcopに対応
   - 警告件数：3000個くらい
 - rubocop-rspecの導入
 - rubocop-railsの導入
-- 汎用モーダルの作成
-- Excelファイルの取り込み機能の追加(Roo使用)
 
 ##### ［メンバー構成／役割］ 
 最大４人/メンバー(2024/3〜リーダー)
@@ -168,7 +154,7 @@ Cordovaには初めて触れたがFlutterで得たモバイル関係の知識も
 - DB：PostgreSQL
 - 言語：TypeScript、Ruby
 - フレームワーク：Cordova、React、Rails
-- その他：Docker、AWS(EC2/RDS/Amazon SNS/CloudWatch)
+- その他：Docker、AWS(EC2/S3/RDS/Amazon SNS/CloudWatch)
 </details>
 
 
@@ -212,9 +198,7 @@ Flutter案件としてはネイティブの機能を使うところが結構珍�
 ## 👀このさきやってみたいこと
 - Webフロント/バックエンドの専門性を深める
 - ソフトウェア工学の学習
-- クリエイターとして収益を上げる(3Dモデリングなど)
-- フリーランスエンジニア
-- 自社IPを使った事業を行っている企業でのWebエンジニアとしての仕事
+- フリーランス
 - 自発的な成長をしたい人の支援(自己学習支援・クリエイター支援など)
 
 
@@ -232,18 +216,18 @@ Flutter案件としてはネイティブの機能を使うところが結構珍�
 ## 2.ポジション
 - リーダーよりもフォロワーで力を発揮するタイプのためその辺り
 - RPGで言うと補助魔法使う人
+- シングルタスカーに優しい
 
 ## 3.人間関係
 - 質問しやすい環境
-- 問題発生時に個人を責めない環境
 - 言い方がきつい人がいない環境
+- 雑談する機会がある環境
 
 ## 4.業務内容
 - 自社サービス開発
-- 目的がはっきりしていない思いつきを作らない
-- 顧客との打ち合わせへの参加の必要がない
+- PdMとPMがいる
 
 ## 5. 開発環境
-- デプロイの自動化で本番リリースへの心理的負担を下げている環境
+- デプロイの自動化
 - AIツールの活用(ChatGPT / Github Copilot)
 </details>
