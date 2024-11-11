@@ -1,3 +1,7 @@
+# プロフィール/Profile
+
+<details><summary>日本語</summary>
+
 ### 何者か
 - 2019年から福岡にてITエンジニア。 
 - 居住地は福岡から絶対離れるつもりはないが、カンファレンスなどで東京に行くことはある。
@@ -221,6 +225,10 @@ Flutter案件としてはネイティブの機能を使うところが結構珍�
 - リリース作業に対する心理的負担が少ない
 - AIツールの活用(ChatGPT / Github Copilot)
 </details>
+
+</details>
+
+---
 
 <details><summary>English</summary>
 
