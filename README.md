@@ -21,7 +21,7 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 |  Dart  |  4年  |  Flutter  |  モバイルアプリ開発  |
 |  Ruby  | 5年  |  Rails  | Webアプリケーション開発   |
 |  JavaScript  | 5年  |  jQuery | Webアプリケーション開発 |
-|  TypeScript  | 2年  |  React | Webアプリケーション開発 |
+|  TypeScript  | 2年  |  React | Webアプリケーション開発 / モバイルアプリ開発 |
 
 <details><summary>📌 その他の技術スタック</summary>
 
@@ -249,13 +249,13 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 ## 🧘 仕事選びにおいて重視する価値観
 一言で言うと、「心の安寧」です
 
-✅ フルリモートワーク
-✅ フルフレックス勤務
-✅ 余裕あるスケジュール管理
-✅ 心理的安全性の確保
-✅ 対人間コンフリクトの少なさ
-✅ 集中できる作業環境
-✅ 効率的な会議文化
-✅ AIツール活用（ChatGPT/GitHub Copilot等）の許容
+- ✅ フルリモートワーク
+- ✅ フルフレックス勤務
+- ✅ 余裕あるスケジュール管理
+- ✅ 心理的安全性の確保
+- ✅ 対人間コンフリクトの少なさ
+- ✅ 集中できる作業環境
+- ✅ 効率的な会議文化
+- ✅ AIツール活用（ChatGPT/GitHub Copilot等）の許容
 
 </details>
