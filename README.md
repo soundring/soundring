@@ -258,4 +258,9 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 - ✅ 効率的な会議文化
 - ✅ AIツール活用（ChatGPT/GitHub Copilot等）の許容
 
-</details>
+## 趣味で作ったもの
+- [WASMを使用した音声文字起こしアプリ](https://localscribe.pages.dev/)
+- [イベントマッチングサイト](https://murasame-event-matching-667052966676.asia-northeast2.run.app/)
+- [Flutter Webで作ったサイト](https://soundring.github.io/murasame_playground/#/)
+
+
