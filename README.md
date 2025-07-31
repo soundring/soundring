@@ -1,5 +1,19 @@
 # プロフィール/Profile
 
+
+![Study Sessions](https://img.shields.io/badge/勉強会開催-50回・5年継続-blue)
+![Mentoring](https://img.shields.io/badge/メンタリング-非エンジニア向け-orange)
+![Communication](https://img.shields.io/badge/評価-話しやすい-success)
+
+![Flutter](https://img.shields.io/badge/Flutter-5_Years-02569B?style=for-the-badge&logo=flutter)
+![Rails](https://img.shields.io/badge/Rails-6_Years-CC0000?style=for-the-badge&logo=ruby-on-rails)
+![React](https://img.shields.io/badge/React-4_Years-61DAFB?style=for-the-badge&logo=react)
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,ruby,rails,react,typescript,js,docker,aws,firebase)](https://skillicons.dev)
+
+<!-- トロフィー（選択的表示） -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=soundring&theme=darkhub&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A)
+
 ### 👋自己紹介
 こんにちは😀
 
