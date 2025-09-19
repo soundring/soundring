@@ -276,6 +276,6 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 - [WASMを使用した音声文字起こしアプリ](https://localscribe.pages.dev/)
 - [イベントマッチングサイト](https://murasame-event-matching-667052966676.asia-northeast2.run.app/)
 - [Flutter Webで作ったサイト](https://soundring.github.io/murasame_playground/#/)
-- [過集中防止リマインダーChrome拡張](- [Flutter Webで作ったサイト](https://soundring.github.io/murasame_playground/#/))
+- [過集中防止リマインダーChrome拡張]([https://soundring.github.io/murasame_playground/#/](https://chromewebstore.google.com/detail/hkkonbijgommgipjckkbkppmkhcceojd?utm_source=item-share-cb))
 
 
