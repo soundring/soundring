@@ -35,16 +35,16 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 |  Dart  |  5年  |  Flutter  |  モバイルアプリ開発  |
 |  Ruby  | 6年  |  Rails  | Webアプリケーション開発   |
 |  JavaScript  | 6年  |  jQuery | Webアプリケーション開発 |
-|  TypeScript  | 4年  |  React | Webアプリケーション開発 / モバイルアプリ開発 |
+|  TypeScript  | 5年  |  React | Webアプリケーション開発 / モバイルアプリ開発 |
 
 <details><summary>📌 その他の技術スタック</summary>
 
-|   エディタ  |  年数  |  備考  |
-| ---- | ---- | ---- |
-|  Visual Studio Code	  |  5年  |  主要開発ツール  |
-|  RubyMine	  |  3年  |  	Ruby/Rails開発  |
-|  Android Studio |  4年  |  	Flutterモバイル開発  |
-|  Xcode  |  4年  |  	Flutterモバイル開発  |
+|   エディタ    |  備考  |
+| ---- | ---- |
+|  Visual Studio Code	  | 主要開発ツール  |
+|  RubyMine	  | 	Ruby/Rails開発で一時期使っていた  |
+|  Android Studio |  Flutterモバイル開発  |
+|  Xcode  |  Flutterモバイル開発  |
 
 |   DB  |  備考  |
 | ---- | ---- |
@@ -59,8 +59,8 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 
 |   バージョン管理  |  年数  |
 | ---- | ---- |
-|  Git |  5年 |
-|  GitHub |  5年 |
+|  Git |  6年 |
+|  GitHub |  6年 |
 |  Bitbucket |  4年 |
 
 </details>
@@ -112,7 +112,7 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 - Flutter 2.0から3.0へのアップデート
 - 状態管理をproviderからriverpodへ移行
 
-##### [実績]
+##### [特記事項]
 - 社内初のFlutterエンジニアとして、学習から開発・リリースまで担当
 - 日本語情報が少ない中、英語ドキュメントやGitHubの情報を活用して問題解決
 - デザイナー不在のためアプリアイコン制作も担当
@@ -135,7 +135,7 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 - バグ修正
 - 総合テスト
 
-##### [実績]
+##### 開発事例
 - データの一括複製機能（DelayedJob使用）
 年度をまたいだデータ作成の手間を大幅に削減
 
@@ -159,7 +159,7 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 - Cordovaのアップデート作業(iOS/Android)
 - 総合テストの実施
 
-##### [実績]
+##### [開発事例]
 - リリース不可能だったCordovaアプリのメジャーバージョン2段階アップデート実施
 - Flutterで得たモバイル開発知識を活用
 - React Hooksを使用した状態管理の導入
@@ -184,7 +184,7 @@ https://note.com/murasame_works/n/nd76f3e904e5b
   - 進捗報告、チーム会議進行、経営層との打ち合わせ
   - 要件定義、設計
 
-#### [実績] 開発事例
+#### [開発事例]
 - CSVでの一括ダウンロード機能
 - Excelファイルの取込機能(Roo使用)
 - テストデータ（seedファイル）改善
@@ -192,9 +192,8 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 - rubocop関連の改善（約3000件の警告対応、rubocop-rspec/railsの導入）
 
 #### [特記事項]
-- 2024/3に前任リーダーの突然の退職に伴い、リーダーポジションを引継ぎ
-- 慣れない立場でも安定した開発・運用を実現
-- 予定通りの新機能リリースを完遂
+- 2024/3に前任リーダーの突然の退職に伴い、リーダーポジションを代打で引継ぎ
+- 予定通りにインフラ環境の移行と新機能リリースを完遂
 
 ##### ［メンバー構成／役割］ 
 最大４人/メンバー(2024/3〜2024/10 リーダー)
@@ -206,6 +205,23 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 - その他：Docker、AWS(EC2/S3/RDS/Amazon SNS/CloudWatch)
 
 </details>
+
+
+<details><summary>🛠️ 既存のWebアプリケーションのマニュアル機能開発(2025/4~)</summary>
+
+##### [担当業務]
+- 機能に関するマニュアルを見れる画面の作成
+- 管理者がマニュアルを編集できるように管理機能開発
+- Action TextとActive Storageを導入
+
+##### ［環境・構成］
+- DB：MariaDB
+- 言語：JavaScript、Ruby
+- フレームワーク：Bootstrap3、Backbone.js、Rails
+- その他：Docker、AWS EC2
+  
+</details>
+
 
 #### 📝 社内文化への貢献
 - 社内勉強会の立ち上げと運営（2020/2〜現在）
@@ -250,13 +266,16 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 - 非エンジニアクライアントへの技術的サポート・相談
 - 必要に応じたアプリケーション改修
 
+- 英語だけではなく、多言語学習対応
+- Google Natural Language APIを活用
+- 組織ごとにモード切り替えできるように
+
 </details>
 
 ## 👀このさきやってみたいこと
 - IT基礎技術の理解深化
 - 非エンジニア向けメンタリング
-- 自己成長を目指す人の支援（自己学習・クリエイター支援）
-- メンタルケア関連の活動
+- プログラムを書く以外のクリエイティブなこと
 - フリーランスとしての活動
 - 地方活性化への貢献
 
@@ -269,8 +288,7 @@ https://note.com/murasame_works/n/nd76f3e904e5b
 - ✅ 心理的安全性の確保
 - ✅ 対人間コンフリクトの少なさ
 - ✅ 集中できる作業環境
-- ✅ 効率的な会議文化
-- ✅ AIツール活用（ChatGPT/GitHub Copilot等）の許容
+- ✅ AIツール活用の許容
 
 ## 趣味で作ったもの
 - [WASMを使用した音声文字起こしアプリ](https://localscribe.pages.dev/)
