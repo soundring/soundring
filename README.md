@@ -263,11 +263,9 @@ AI活用による自己能力の拡張と効率化を行います。
 
 その他の詳細プロフィールはこちら
 https://note.com/murasame_works/n/nd76f3e904e5b
-- ✅ AIツール活用の許容
 
-## 趣味で作ったもの
+## （公開されている）趣味で作ったもの
 - [WASMを使用した音声文字起こしアプリ](https://localscribe.pages.dev/)
-- [イベントマッチングサイト](https://murasame-event-matching-667052966676.asia-northeast2.run.app/)
 - [Flutter Webで作ったサイト](https://soundring.github.io/murasame_playground/#/)
 - [過集中防止リマインダーChrome拡張](https://chromewebstore.google.com/detail/hkkonbijgommgipjckkbkppmkhcceojd?utm_source=item-share-cb)
 
