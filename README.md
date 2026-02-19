@@ -1,9 +1,9 @@
 # プロフィール/Profile
 
 
-![Flutter](https://img.shields.io/badge/Flutter-5_Years-02569B?style=for-the-badge&logo=flutter)
-![Rails](https://img.shields.io/badge/Rails-6_Years-CC0000?style=for-the-badge&logo=ruby-on-rails)
-![React](https://img.shields.io/badge/React-4_Years-61DAFB?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-7_Years-02569B?style=for-the-badge&logo=flutter)
+![Rails](https://img.shields.io/badge/Rails-7_Years-CC0000?style=for-the-badge&logo=ruby-on-rails)
+![React](https://img.shields.io/badge/React-7_Years-61DAFB?style=for-the-badge&logo=react)
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,ruby,rails,react,typescript,js,docker,aws,firebase)](https://skillicons.dev)
 
@@ -42,9 +42,9 @@
  ### 主要スキル
 | カテゴリ | 技術スタック | 経験年数 | 備考 |
 | ---- | ---- | ---- | ---- |
-| Mobile | Flutter / Dart | 5年 | メインスキル。アーキテクチャ設計から実装まで対応。 |
-| Web | Rails / Ruby | 6年 | バックエンドAPI構築、管理画面開発など。 |
-| Web | React / TypeScript | 5年 | フロントエンド刷新、SPA開発。 |
+| Mobile | Flutter / Dart | 7年 | メインスキル。アーキテクチャ設計から実装まで対応。 |
+| Web | Rails / Ruby | 7年 | バックエンドAPI構築、管理画面開発など。 |
+| Web | React / TypeScript | 7年 | フロントエンド刷新、SPA開発。 |
 | Infra/DB | Firebase / AWS | - | Cloud Firestore, Auth, Docker等を使用。 |
 
 ## 🔭仕事経歴
