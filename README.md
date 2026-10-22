@@ -172,15 +172,9 @@ Flutter, Dart, Firebase (Firestore/Auth), Cloud Functions, Codemagic
 
 ✅ フルリモートワーク
 
-✅ 心理的安全性（威圧的な管理や詰め文化のない環境）
-
-✅ 本質的な課題解決へのフォーカス
+✅ 心理的安全性
 
 ✅ せかせかしない、まったり雰囲気
 
-
-## （公開されている）趣味で作ったもの
-- [ポートフォリオのポータルサイト](https://murasame-atelier.com/)
-- [Flutter Webで作ったサイト](https://soundring.github.io/murasame_playground/#/)
 
 
